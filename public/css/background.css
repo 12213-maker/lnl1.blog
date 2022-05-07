@@ -1,0 +1,9 @@
+/* butterfly 主题的背景 */
+#web_bg{
+    background: url('../../../../public//img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-info-avatar:hover {
+    background: url(https://cdn.jsdelivr.net/gh/rigodlee/BLOGCDN/img/20200530181856.gif);
+  }
